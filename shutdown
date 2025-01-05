@@ -1,0 +1,4 @@
+#!/bin/bash
+# Shutdown the connected server
+
+$(sudo shutdown now)
